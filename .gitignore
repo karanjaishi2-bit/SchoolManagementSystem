@@ -1,4 +1,4 @@
-# Ignore Visual Studio files
+# Visual Studio
 .vs/
 bin/
 obj/
